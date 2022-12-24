@@ -1,7 +1,9 @@
-1.6
+1.7
 LING VPN 
-Update File 19-12-22 
+Update File 24-12-22 
+เพิ่มเซิฟ ASG 10 SERVER
 รายการเซิฟเวอร์ 
+ASG 10 SERVER ใช้งานทั่วไป
 AUS 5 SERVER ใช้งานทั่วไป
 AUTO 10 SERVER ใช้งานทั่วไป
 CA 10 SERVER ใช้งานทั่วไป
