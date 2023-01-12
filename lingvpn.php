@@ -1,14 +1,7 @@
-1.7
+1.8
 LING VPN 
-Update File 24-12-22 
-เพิ่มเซิฟ ASG 10 SERVER
+Update File 12-01-23 
 รายการเซิฟเวอร์ 
-ASG 10 SERVER ใช้งานทั่วไป
-AUS 5 SERVER ใช้งานทั่วไป
-AUTO 10 SERVER ใช้งานทั่วไป
-CA 10 SERVER ใช้งานทั่วไป
-SG-DIGITAL 10 SERVER ใช้งานทั่วไป
-SG-EVM 10 SERVER ใช้งานทั่วไป
 TH-CAT 10 SERVER ใช้งานทั่วไป
 TH-GAMING 10 SERVER ใช้เล่นเกมส์เท่านั้น
 TH-IDC 10 SERVER ใช้งานทั่วไป
