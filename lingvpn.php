@@ -1,7 +1,11 @@
-1.9
+2.0
 LING VPN 
 Update File 14-01-23 
+เพิ่มเซิฟ CA 10 SERVER
+เพิ่มเซิฟ SG 10 SERVER
 รายการเซิฟเวอร์ 
+CA 10 SERVER ใช้ดูยูทูปลื่นๆ
+SG 10 SERVER ใช้งานทั่วไป
 TH-CAT 10 SERVER ใช้งานทั่วไป
 TH-GAMING 10 SERVER ใช้เล่นเกมส์เท่านั้น
 TH-IDC 10 SERVER ใช้งานทั่วไป
