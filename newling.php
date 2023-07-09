@@ -1,8 +1,7 @@
-4.1
+4.2
 LING VPN 
-Update File 18-06-23
+Update File 09-07-23
 👉รายการเซิฟเวอร์
-🔥VIP-BANGMOD 1 SERVER 
 🔥VIP-CAT 7 SERVER 
 🔥VIP-DDC 1 SERVER
 🔥VIP-GAMING 5 SERVER
