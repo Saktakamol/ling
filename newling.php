@@ -1,6 +1,6 @@
-5.1
+5.2
 LING VPN 
-Update File 17-11-23
+Update File 22-11-23
 👉รายการเซิฟเวอร์
 🔥VIP-CAT 8 SERVER 
 🔥VIP-DDC 1 SERVER
